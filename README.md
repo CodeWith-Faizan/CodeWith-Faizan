@@ -41,11 +41,8 @@ I specialize in turning raw data into actionable intelligence and building AI-na
   <img src="https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white" />
 </p>
 
-
-
 ---
-
-## 🚀 Quick Snapshot
+**🚀 Quick Snapshot**
 | What I Do | Tools I Love |
 |-----------|--------------|
 |🧩 AI Agents, ML APIs | LangChain, OpenAI, Pandas |
@@ -53,13 +50,12 @@ I specialize in turning raw data into actionable intelligence and building AI-na
 |🌐 Infra & DevOps | Vercel, Render, Docker |
 
 ---
-
-## 🧭 Currently Learning
-- LangGraph and N8N for autonomous agents    
+**🧭 Currently Learning**
+- ⚡ LangGraph and N8N for autonomous agents    
 
 ---
 
-## 📬 Connect with Me
+**📬 Connect with Me**
 <p align="center">
   <a href="www.linkedin.com/in/muhammad-faizan-40857a247"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white"></a>
   <a href="mailto:mf309770@gmail.com"><img src="https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white"></a>
