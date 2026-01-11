@@ -14,7 +14,7 @@ I specialize in turning raw data into actionable intelligence and building AI-na
 - 🧠 I work with **Python**, **Sklearn**, **LangChain**, **OpenAI**, and **Numpy**.
 - 🌱 I build backends using **FastAPI**, **PostgreSQL**, **MongoDB**, and **Docker**.
 - 🌐 I deploy cloud-native apps using **Vercel**, **Netlify**, and **Neon DB**.
-- 🔭 I'm currently building **ModelPulse** — a control plane for MLOps observability and continuous delivery.
+- 🔭 I'm currently building **SEODesk** — web-based SEO management system for teams to record link-building deals, track posting methods, manage clients, and monitor task completion. Includes admin dashboard for user management and full activity oversigh.
 ---
 
 ## ⚡ Tech Stack & Tools I Use
@@ -51,7 +51,7 @@ I specialize in turning raw data into actionable intelligence and building AI-na
 
 ---
 **🧭 Currently Learning**
-- ⚡ LangGraph and N8N for autonomous agents    
+- ⚡ LangGraph and autonomous agents    
 
 ---
 
